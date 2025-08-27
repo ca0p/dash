@@ -13,6 +13,11 @@ appConfig:
   customCss: '.clock p.time { font-size: 3rem !important; }'
   layout: vertical
   iconSize: small
+  auth:
+    users:
+      - user: capper    
+        hash: 2bb05e6b106d1094aeaece0326d396872181f22170a415d53f8c8f728e6a00d2
+        type: admin
 
 # Main content - An array of sections, each containing an array of items
 sections:
