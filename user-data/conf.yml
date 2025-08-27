@@ -1,9 +1,9 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Hello, Alicia
+  title: Hello, CAPPER
   description: General browser startpage
-  logo: https://i.ibb.co/71WyyzM/little-bot-3.png
+  logo: https://avatars.githubusercontent.com/u/220683200?s=400&u=fdf15ba67b7ee699841af94a0dc5d61a4fdf3644&v=4
 
 # Optional app settings and configuration
 appConfig:
