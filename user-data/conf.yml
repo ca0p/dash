@@ -112,7 +112,7 @@ sections:
     icon: favicon
     url: http://stackoverflow.com/
   - title: CloudFlare
-    icon: favicon
+    icon: networking/cloudflare.png
     url: https://dash.cloudflare.com/
     statusCheckAcceptCodes: '403'
   - title: DigitalOcean
